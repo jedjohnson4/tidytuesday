@@ -1,8 +1,6 @@
 # tidytuesday
 Weekly submissions to TidyTuesday Project.
 
-### Submissions
+## Week 24
 
-## 2023
-
-
+<img src="/2023/230613/plots/SAFI.png />
