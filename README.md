@@ -10,7 +10,7 @@ Weekly submissions to TidyTuesday Project.
 <img src="/2023/230627/GNIS.gif">
 
 
-## <a href="/2023/230620/UFO-sightings.R"> Week 25 </a>
+## <a href="/2023/230620/UFO-Sightings.R"> Week 25 </a>
 
 <img src="/2023/230620/UFO-sightings.png">
 
