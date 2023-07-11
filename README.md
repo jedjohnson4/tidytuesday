@@ -6,6 +6,11 @@ Weekly submissions to TidyTuesday Project.
   <a href="https://twitter.com/jed4johnson" target="_blank"><img src="/icons/twitter.png" width=25, height=25></a>
 
 
+## <a href="/2023/230711/Global-Temps.R"> Week 28 </a>
+
+<img src="/2023/230711/Global-Temps.png">
+
+
 ## <a href="/2023/230704/Texas_Historical_Markers.R"> Week 27 </a>
 
 <img src="/2023/230704/Texas_Historical_Markers.png">
