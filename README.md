@@ -2,6 +2,11 @@
 Weekly submissions to TidyTuesday Project.
 
 
+## <a href="/2023/230718/AI_Detectors.R"> Week 29 </a>
+
+<img src="/2023/230718/AI_Detectors.png">
+
+
 ## <a href="/2023/230711/Global-Temps.R"> Week 28 </a>
 
 <img src="/2023/230711/Global-Temps.png">
@@ -10,6 +15,7 @@ Weekly submissions to TidyTuesday Project.
 ## <a href="/2023/230704/Texas_Historical_Markers.R"> Week 27 </a>
 
 <img src="/2023/230704/Texas_Historical_Markers.png">
+
 
 ## <a href="/2023/230627/GNIS.R"> Week 26 </a>
 
